@@ -1,0 +1,11 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Outputs
+results/*
+!results/.gitkeep
+checkpoints/asahi_demo_*.pth
+data/encode_pt_rebuilt/

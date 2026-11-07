@@ -1,0 +1,45 @@
+name: asahi_demo
+data:
+  data_root: data
+  dataset: encode_pt
+  split_file: data/metadata/encode_demo_split.json
+  chrom: chr21
+  genome_path: data/metadata/hg38_encoded_chr21.npz
+  num_cpgs: 1024
+  slice_height: 4
+  n_depth_strata: 2
+  missing_rate: 0.2
+  thin_ratio: 0.2
+  thin_p_low: 0.1
+  thin_p_high: 0.9
+  thin_min_cov: 5
+  replace_val: 0.5
+model:
+  cpg_embed_size: 32
+  transf_hsz: 64
+  n_transformers: 4
+  n_heads: 8
+  head_dim: 8
+  window: 21
+  transf_do: 0.20
+  act: relu
+  dna_embed_size: 32
+  dna_window: 1001
+  dna_conv_do: 0.2
+  dna_chunks: 16
+  depth_embed_size: 8
+  depth_cap: 32
+  aux_local_bp: 500
+  aux_local_weight: 0.25
+  aux_cross_weight: 0.25
+  aux_warmup_epochs: 10
+train:
+  batch_size: 16
+  num_workers: 4
+  max_epochs: 100
+  lr: 5.0e-4
+  lr_decay_factor: 0.998719
+  warmup_steps: 100
+  patience: 5
+  device: cuda:0
+  seed: 108

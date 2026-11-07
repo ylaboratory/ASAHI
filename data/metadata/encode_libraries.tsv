@@ -1,0 +1,13 @@
+accession	experiment	biosample	biosample_type	donor	run_type	paired_with	fastq_url
+ENCFF032LIY	ENCSR307KDA	heart left ventricle	tissue	ENCDO271OUW	paired-ended	ENCFF381XYJ	https://www.encodeproject.org/files/ENCFF032LIY/@@download/ENCFF032LIY.fastq.gz
+ENCFF055UXZ	ENCSR328TBS	skeletal muscle myoblast	primary cell	ENCDO094AAA	paired-ended	ENCFF764NTF	https://www.encodeproject.org/files/ENCFF055UXZ/@@download/ENCFF055UXZ.fastq.gz
+ENCFF116KBT	ENCSR598OBF	stomach	tissue	ENCDO271OUW	paired-ended	ENCFF446IRX	https://www.encodeproject.org/files/ENCFF116KBT/@@download/ENCFF116KBT.fastq.gz
+ENCFF164ZJM	ENCSR739XWV	placenta	tissue	ENCDO376MNT	paired-ended	ENCFF225APL	https://www.encodeproject.org/files/ENCFF164ZJM/@@download/ENCFF164ZJM.fastq.gz
+ENCFF249ESJ	ENCSR656TQD	mammary epithelial cell	primary cell	ENCDO830BUW	paired-ended	ENCFF106LFQ	https://www.encodeproject.org/files/ENCFF249ESJ/@@download/ENCFF249ESJ.fastq.gz
+ENCFF337XLQ	ENCSR656TQD	mammary epithelial cell	primary cell	ENCDO344AAA	paired-ended	ENCFF670TUN	https://www.encodeproject.org/files/ENCFF337XLQ/@@download/ENCFF337XLQ.fastq.gz
+ENCFF357SKM	ENCSR806NNG	testis	tissue	ENCDO845WKR	paired-ended	ENCFF158ITS	https://www.encodeproject.org/files/ENCFF357SKM/@@download/ENCFF357SKM.fastq.gz
+ENCFF435IGQ	ENCSR556KEJ	lung	tissue	ENCDO424HVB	single-ended		https://www.encodeproject.org/files/ENCFF435IGQ/@@download/ENCFF435IGQ.fastq.gz
+ENCFF473TTY	ENCSR781LIC	pancreas	tissue	ENCDO058AAA	single-ended		https://www.encodeproject.org/files/ENCFF473TTY/@@download/ENCFF473TTY.fastq.gz
+ENCFF500BJS	ENCSR741FVM	adrenal gland	tissue	ENCDO793LXB	paired-ended	ENCFF287MIO	https://www.encodeproject.org/files/ENCFF500BJS/@@download/ENCFF500BJS.fastq.gz
+ENCFF710XQC	ENCSR328TBS	skeletal muscle myoblast	primary cell	ENCDO094AAA	paired-ended	ENCFF331AID	https://www.encodeproject.org/files/ENCFF710XQC/@@download/ENCFF710XQC.fastq.gz
+ENCFF887XUB	ENCSR713WYJ	liver	tissue	ENCDO478OMA	single-ended		https://www.encodeproject.org/files/ENCFF887XUB/@@download/ENCFF887XUB.fastq.gz

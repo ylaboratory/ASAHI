@@ -1,0 +1,20 @@
+{
+  "train": [
+    "ENCFF116KBT",
+    "ENCFF032LIY",
+    "ENCFF710XQC",
+    "ENCFF055UXZ",
+    "ENCFF164ZJM",
+    "ENCFF473TTY"
+  ],
+  "val": [
+    "ENCFF887XUB",
+    "ENCFF435IGQ",
+    "ENCFF337XLQ",
+    "ENCFF357SKM"
+  ],
+  "test": [
+    "ENCFF500BJS",
+    "ENCFF249ESJ"
+  ]
+}
